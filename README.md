@@ -51,10 +51,3 @@ You need to implement this system in a modular way and prepare the package for l
 
 ##### Steps:
 1. Create a folder called `mylibrary/` and place `library.py` inside it.
-2. Add an empty `__init__.py` file inside `mylibrary/`.
-3. Create a `setup.py` file for package installation.
-
-##### Installation:
-- Run the following command in your terminal to install the package locally:
-```bash
-pip install .
